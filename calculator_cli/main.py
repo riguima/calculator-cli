@@ -68,5 +68,6 @@ cli.add_command(subtract)
 cli.add_command(multiply)
 cli.add_command(divide)
 
+
 if __name__ == '__main__':
     cli()
