@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "riguima-calculator-cli"
-version = "0.1.0"
+version = "0.1.1"
 description = "Calculator CLI made from app ideas repo: https://github.com/florinpop17/app-ideas"
 authors = ["Richard <richard.alexsander.guima@gmail.com>"]
 readme = "README.md"
